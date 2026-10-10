@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include <EasyKids3in1.h>git remote add origin git@github.com:Tritonsspace/Test3in1.git
+#include <EasyKids3in1.h>
 #define Green D0
 #define Yellow D1
 #define Red D2
